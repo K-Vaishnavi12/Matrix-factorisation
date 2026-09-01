@@ -2,7 +2,7 @@
 
 An end-to-end product recommendation system that benchmarks **six** different
 models — from a simple popularity baseline to a content-aware deep model —
-on the [B2B-REVIEWS-2023](https://huggingface.co/datasets/McAuley-Lab/Normal-Reviews-2023)
+on the [B2B-REVIEWS-2023](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)
 dataset, and serves the trained models behind a REST API.
 
 ---
