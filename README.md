@@ -1,4 +1,4 @@
-# Amazon Reviews Recommender
+# B2B Reviews Recommender
 
 An end-to-end product recommendation system that benchmarks **six** different
 models — from a simple popularity baseline to a content-aware deep model —
